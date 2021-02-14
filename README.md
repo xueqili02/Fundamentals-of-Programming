@@ -1,5 +1,5 @@
 # Fundamentals-of-Programming
-## Warning Do Not Cheat!!! You are supposed to complete the assignments independently!!!
+## Warning: Do Not Cheat!!! You are supposed to complete the assignments independently!!!
 
 This project contains assignments of the BJTU course: Fundamentals of Programming.
 
